@@ -1,2 +1,4 @@
 #Ini cuma file testing saja
-- ini teks untuk membuat conflict pada branch main
+- ini adalah kalimat pada branch development agar terjadi conflict saat merge branch dilakukan
+- testing saja agar error lagi dan lagi
+
